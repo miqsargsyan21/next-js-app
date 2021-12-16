@@ -2,33 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c91d50e3-f029-4b35-a63b-75ab5318a6b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/my-app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Layouts/MainLayout/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/api/hello.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/contact/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/posts/[id]/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/posts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vercel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/Home.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/globals.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/config/admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/config/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/config/database.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/config/middlewares.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/config/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/public/uploads/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/src/admin/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/src/admin/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/src/api/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/src/api/category/content-types/category/schema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/src/api/category/controllers/category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/src/api/category/routes/category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/src/api/category/services/category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/src/api/restaurant/content-types/restaurant/schema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/src/api/restaurant/controllers/restaurant.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/src/api/restaurant/routes/restaurant.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/src/api/restaurant/services/restaurant.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/src/extensions/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-project/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/mysqlModule.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/api/user/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/state.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Layouts/MainLayout/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Layouts/MainLayout/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/api/hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/api/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/contact/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/posts/[id]/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/posts/[id]/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/posts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/posts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +54,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="21zsaT7G9CeE3ju63WZZWyE0Czj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -80,6 +98,10 @@
       <updated>1638955319741</updated>
       <workItem from="1638955327472" duration="3747000" />
       <workItem from="1639127544519" duration="6536000" />
+      <workItem from="1639383826508" duration="4655000" />
+      <workItem from="1639468678343" duration="9000" />
+      <workItem from="1639559415332" duration="5655000" />
+      <workItem from="1639636031395" duration="7286000" />
     </task>
     <servers />
   </component>
