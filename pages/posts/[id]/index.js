@@ -17,7 +17,7 @@ const Post = ({data1, data2}) => {
                 <p>{ parseInt(id) === 1 ? JSON.stringify(data1, null, '  ') : JSON.stringify(data2, null, '  ') }</p>
             </pre>
             { parseInt(id) === 1 &&
-                <img src={`http://localhost:1337${data1.restaurants.data[0].attributes.image.data[0].attributes.url}`} alt={'image'} width={'300px'} className={'ml-10 my-5'} />
+                <img src={`http://localhost:1337${data1.restaurants.data[0].attributes.image.data[0].attributes.url}`} alt={'image'} width={'300px'} className={'ml-10 mt-5'} />
             }
         </MainLayout>
     );

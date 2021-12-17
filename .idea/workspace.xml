@@ -31,9 +31,15 @@
       <change afterPath="$PROJECT_DIR$/../my-project/src/api/restaurant/services/restaurant.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../my-project/src/extensions/.gitkeep" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../my-project/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/moon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/sunny.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Layouts/MainLayout/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Layouts/MainLayout/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/posts/[id]/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/posts/[id]/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +94,9 @@
       <workItem from="1639383826508" duration="4655000" />
       <workItem from="1639468678343" duration="9000" />
       <workItem from="1639559415332" duration="5655000" />
-      <workItem from="1639636031395" duration="7545000" />
+      <workItem from="1639636031395" duration="8402000" />
+      <workItem from="1639658314681" duration="3989000" />
+      <workItem from="1639730205093" duration="1643000" />
     </task>
     <servers />
   </component>

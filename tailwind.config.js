@@ -12,7 +12,15 @@ module.exports = {
           '4': '40px',
           '5': '50px',
           '6': '60px',
-      }
+          'screen': '100vh',
+      },
+      backgroundSize: {
+              'auto': 'auto',
+              'cover': 'cover',
+              'contain': 'contain',
+              '50%': '50%',
+              '16': '4rem',
+          }
   },
   plugins: [],
   darkMode: 'class',
